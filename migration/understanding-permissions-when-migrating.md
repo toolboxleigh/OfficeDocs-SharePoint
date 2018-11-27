@@ -14,7 +14,7 @@ description: "Understanding how permissions work when migrating data from on-pre
 
 # Understanding Permissions and the SharePoint Migration Tool
 
-The SharePoint Migration Tool permission control is effected by various conditions.  The following table lists all the conditions and the corresponding results.
+The SharePoint Migration Tool permission control is affected by various conditions.  The following table lists all the conditions and the corresponding results.
 
 |**Source**|***Preserve user permissions* set to ON**|**Are you migrating to the Target library root folder or sub folder?**|**Target library permission before migration**|**Target library permission after migration**|**Note**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
